@@ -1,6 +1,6 @@
 # FaceFind - Intelligent Photo Organization Tool
 
-** IMPORTANT: This tool is designed specifically for macOS and uses AppleScript for system integration. **
+# IMPORTANT: This tool is designed specifically for macOS and uses AppleScript for system integration. 
 
 A powerful face recognition tool that helps you quickly locate and organize photos containing specific people from large image collections. Built with InsightFace and OpenCV for accurate facial recognition.
 
