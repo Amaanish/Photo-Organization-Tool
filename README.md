@@ -45,6 +45,7 @@ pip install onnxruntime-gpu
 ### Directory Structure
 Create a training data folder structure like this:
 ```
+main.py
 training_data/
 ├── person1_name/
 │   ├── photo1.jpg
