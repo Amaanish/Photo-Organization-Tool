@@ -65,7 +65,7 @@ training_data/
 
 2. **Run the Tool**
    ```bash
-   python faceFind.py
+   python3 faceFind.py
    ```
 
 3. **Follow the Prompts**
