@@ -1,4 +1,4 @@
-# FaceFind - Intelligent Photo Organization Tool
+# Intelligent Photo Organization Tool
 
 
 A powerful face recognition tool that helps you quickly locate and organize photos containing specific people from large image collections. Built with InsightFace and OpenCV for accurate facial recognition.
