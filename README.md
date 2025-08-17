@@ -7,7 +7,7 @@ A powerful face recognition tool that helps you quickly locate and organize phot
 
 ##  What It Does
 
-FaceFind scans through folders of images and automatically identifies photos containing a specific person you're looking for. Once identified, it automatically selects those images in Finder, making it easy to organize, copy, or manage your photo collections.
+It scans through folders of images and automatically identifies photos containing a specific person you're looking for. Once identified, it automatically selects those images in Finder, making it easy to organize, copy, or manage your photo collections.
 
 ##  Platform Requirements & Warnings
 
