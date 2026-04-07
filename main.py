@@ -63,9 +63,7 @@ def get_faces(img):
         return faces
         
     for i in range(bboxes.shape[0]):
-        # Create the face object using CPU bounding box
         face = Face(bbox=bboxes[i, 0:4], kps=kpss[i])
-        # Extract embedding using the GPU
         rec_model.get(img, face)
         faces.append(face)
     return faces
