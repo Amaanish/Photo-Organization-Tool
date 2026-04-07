@@ -98,7 +98,7 @@ training_data/
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 ### Accuracy Tuning
 Modify the `threshold` value in the `faces()` function:
@@ -201,5 +201,3 @@ Feel free to open issues or submit pull requests! Areas for improvement:
 ---
 
 **Created by [Amaanish](https://github.com/Amaanish)**
-
-*Remember: With great power comes great responsibility. Use this tool ethically and respect others' privacy.* 🙏
